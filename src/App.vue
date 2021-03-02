@@ -7,7 +7,7 @@ export default {
 	name: 'App',
 	data() {
 		return {
-			title: '我是标题'
+			title: '我是标题1'
 		}
 	},
 	methods: {},
